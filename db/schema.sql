@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS tekblahg_db;
+CREATE DATABASE tekblahg_db;
